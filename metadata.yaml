@@ -1,0 +1,26 @@
+_repo: An-Anthology-of-Australian-Verse_1199
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Stevens, Bertram
+    birthdate: 1872
+    deathdate: 1922
+    gutenberg_agent_id: '550'
+    url: http://www.gutenberg.org/2009/agents/550
+    wikipedia: http://en.wikipedia.org/wiki/Bertram_Stevens_(critic)
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australian poetry'
+- GITenberg
+title: An Anthology of Australian Verse
+url: http://www.gutenberg.org/ebooks/1199
